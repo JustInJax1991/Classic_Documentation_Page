@@ -1,0 +1,26 @@
+.nav {
+    padding-top: 6px;
+}
+
+
+.light {
+    background-color: white;
+}
+
+.dark {
+    background-color: lightgray;
+}
+
+.container-fluid {
+    overflow: hidden;
+}
+
+hr {
+    width: 75%;
+}
+
+.break {
+    border-bottom: black thin solid;
+    width: 75%;
+    margin: 0 auto;
+}
