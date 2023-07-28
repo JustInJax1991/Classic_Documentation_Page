@@ -13,6 +13,7 @@
 
 .container-fluid {
     overflow: hidden;
+    
 }
 
 hr {
@@ -24,3 +25,23 @@ hr {
     width: 75%;
     margin: 0 auto;
 }
+
+.nav-item:hover{
+    background-color: blue;
+}
+
+.add-btn {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stickybutt {
+    
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
